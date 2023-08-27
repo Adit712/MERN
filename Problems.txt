@@ -1,0 +1,9 @@
+Problems:
+a) Network call
+b) JSON (Serialisation and DeSerialisation)
+    i) Convert object into JSON (Serialisation)
+    ii) JSON into Object (DeSerialisation)
+c) Data(Object) --> HTML
+DOM(Data object Model), (Dynamic HTML)
+d) Async vs Sync
+e) JS internal Arch.

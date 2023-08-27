@@ -1,0 +1,1 @@
+export const URL = "https://raw.githubusercontent.com/Adit712/MERN/main/pizza.json"
